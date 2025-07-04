@@ -5,17 +5,21 @@
 ## 🧰 Tools & Technologies
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burp-suite&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat)
 ![Metasploit](https://img.shields.io/badge/Metasploit-4A4A4A?style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-FF0000?style=flat)
+![FortiWeb](https://img.shields.io/badge/FortiWeb-005CB9?style=flat)
 
 ## 📜 Certifications
 
-- 🛡️ [Certificación 1] (Ej: CompTIA Security+, OSCP, eJPT, CEH...)
-- 🧠 [Certificación 2]
+- 🛡️ **Fortinet FCF** (Fortinet Certified Fundamentals Cybersecurity)
+- 🛡️ **Fortinet FCA** (Fortinet Certified Fundamentals Cybersecurity)
+- 🎓 **Cisco – “Introduction to Cybersecurity”** course completed :contentReference[oaicite:1]{index=1}  
 
 ## 📁 Proyectos destacados
 
