@@ -4,7 +4,7 @@
 
 ## 🧰 Tools & Technologies
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat)
@@ -17,15 +17,17 @@
 
 ## 📜 Certifications
 
-- 🛡️ **Fortinet FCF** (Fortinet Certified Fundamentals Cybersecurity)
-- 🛡️ **Fortinet FCA** (Fortinet Certified Fundamentals Cybersecurity)
-- 🎓 **Cisco – “Introduction to Cybersecurity”** course completed :contentReference[oaicite:1]{index=1}  
+- 🛡️ **Fortinet FCF** - Fortinet Certified Fundamentals Cybersecurity
+- 🛡️ **Fortinet FCA** - Fortinet Certified Fundamentals Cybersecurity
+- 🎓 **Cisco** – Introduction to Cybersecurity
+- 🎓 **Certiprof** – Cybersecurity Awareness
+- 🛡️ **Microsoft** - Microsoft Office Specialist: Excel (Office 2016)
 
 ## 📁 Proyectos destacados
 
-- 🔐 **[Nombre del Proyecto]** — Análisis forense de red con Wireshark y Zeek.
-- 🧪 **[Nombre del Proyecto]** — Script en Python para escaneo de puertos personalizado.
-- 🔎 **[Nombre del Proyecto]** — Hardening de servidores en entornos Linux.
+- 🔐 **soon** — soon
+- 🧪 **soon** — soon
+- 🔎 **soon** — soon
 
 ## 📚 Últimos blogs o publicaciones
 
@@ -36,7 +38,7 @@
 
 - ✉️ Mail: edwardfiallo07@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/edward-fiallo](https://linkedin.com/in/edward-fiallo)
-- 🌐 Personal blog: [https://tublog.com](https://tublog.com)
+- 🌐 Personal blog: [https://kick.com/fiallo](https://kick.com/fiallo)
 
 ---
 
