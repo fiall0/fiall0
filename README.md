@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Edward "Carlbot" Fiallo.
 
-🧑‍💻 Especialista en Ciberseguridad | 🔍 Pentester | 🎓 Estudiante constante de amenazas modernas
+🧑‍💻 Cybersecurity Enthusiast  | 🔍 Pentester | 🎓 Lifelong learner of modern threats
 
-## 🧰 Herramientas y Tecnologías
+## 🧰 Tools & Technologies
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burp-suite&logoColor=white)
@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-## 📜 Certificaciones
+## 📜 Certifications
 
 - 🛡️ [Certificación 1] (Ej: CompTIA Security+, OSCP, eJPT, CEH...)
 - 🧠 [Certificación 2]
@@ -28,11 +28,11 @@
 - 📝 [Post: "Cómo detectar malware en tráfico HTTP"](enlace)
 - 🔍 [Guía: "Checklist de Pentesting Interno"](enlace)
 
-## 📫 Contacto
+## 📫 Contact
 
-- ✉️ Correo: tunombre@example.com  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- 🌐 Blog personal: [https://tublog.com](https://tublog.com)
+- ✉️ Mail: edwardfiallo07@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/edward-fiallo](https://linkedin.com/in/edward-fiallo)
+- 🌐 Personal blog: [https://tublog.com](https://tublog.com)
 
 ---
 
