@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Edward "Carlbot" Fiallo.
 
-🧑‍💻 Cybersecurity Enthusiast  | 🔍 Pentester | 🎓 Lifelong learner of modern threats
+🧑‍💻 Cybersecurity Enthusiast | 🛡️ SOC Analyst | 🔍 Pentester Learner | 🎓 Lifelong learner of modern threats 
 
 ## 🧰 Tools & Technologies
 
