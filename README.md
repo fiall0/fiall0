@@ -23,16 +23,15 @@
 - 🎓 **Certiprof** – Cybersecurity Awareness
 - 🛡️ **Microsoft** - Microsoft Office Specialist: Excel (Office 2016)
 
-## 📁 Proyectos destacados
+## 📁 Projects
 
 - 🔐 **soon** — soon
 - 🧪 **soon** — soon
 - 🔎 **soon** — soon
 
-## 📚 Últimos blogs o publicaciones
+## 📊 GitHub Stats
 
-- 📝 [Post: "Cómo detectar malware en tráfico HTTP"](enlace)
-- 🔍 [Guía: "Checklist de Pentesting Interno"](enlace)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fiall0&show_icons=true&theme=github_dark)
 
 ## 📫 Contact
 
