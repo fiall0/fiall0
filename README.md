@@ -26,7 +26,7 @@
 ## 📁 Projects
 
 - 🔐 **soon** — soon
-- 🧪 **soon** — soon
+- 🧪 **MyTrinket Store WebSite** — [[mytrinektrd.com](https://mytrinketrd.com)
 - 🔎 **soon** — soon
 
 ## 📊 GitHub Stats
@@ -41,4 +41,4 @@
 
 ---
 
-> 🧠 *“La seguridad no es un producto, es un proceso.” — Bruce Schneier*
+> 🧠 *"The best defense is a good offense." — Sun Tzu, El arte de la guerra*
