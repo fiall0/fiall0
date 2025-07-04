@@ -1,25 +1,39 @@
-# 👋 ¡Hola! Soy Carlbot
+# 👋 ¡Hola! Soy Edward "Carlbot" Fiallo.
 
-🎯 Desarrollador de software | 💻 Apasionado por la tecnología | 🌎 Santo Domingo, R.D.
+🧑‍💻 Especialista en Ciberseguridad | 🔍 Pentester | 🎓 Estudiante constante de amenazas modernas
 
-## 🧰 Tecnologías y herramientas
+## 🧰 Herramientas y Tecnologías
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat)
+![Metasploit](https://img.shields.io/badge/Metasploit-4A4A4A?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-## 📊 GitHub Stats
+## 📜 Certificaciones
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fiall0&show_icons=true&theme=github_dark)
+- 🛡️ [Certificación 1] (Ej: CompTIA Security+, OSCP, eJPT, CEH...)
+- 🧠 [Certificación 2]
 
-## 📫 Cómo contactarme
+## 📁 Proyectos destacados
 
-- Correo: tuemail@example.com  
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- 🔐 **[Nombre del Proyecto]** — Análisis forense de red con Wireshark y Zeek.
+- 🧪 **[Nombre del Proyecto]** — Script en Python para escaneo de puertos personalizado.
+- 🔎 **[Nombre del Proyecto]** — Hardening de servidores en entornos Linux.
+
+## 📚 Últimos blogs o publicaciones
+
+- 📝 [Post: "Cómo detectar malware en tráfico HTTP"](enlace)
+- 🔍 [Guía: "Checklist de Pentesting Interno"](enlace)
+
+## 📫 Contacto
+
+- ✉️ Correo: tunombre@example.com  
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- 🌐 Blog personal: [https://tublog.com](https://tublog.com)
 
 ---
 
-> 💡 "La tecnología no reemplaza al talento, lo potencia."  
+> 🧠 *“La seguridad no es un producto, es un proceso.” — Bruce Schneier*
