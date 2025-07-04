@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fiall0&show_icons=true&theme=github_dark)
 
 ## 📫 Cómo contactarme
 
