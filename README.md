@@ -26,7 +26,7 @@
 ## 📁 Projects
 
 - 🔐 **soon** — soon
-- 🧪 **MyTrinket Store WebSite** — [[mytrinektrd.com](https://mytrinketrd.com)
+- 🧪 **MyTrinket Store WebSite** — [https://mytrinektrd.com](https://mytrinketrd.com)
 - 🔎 **soon** — soon
 
 ## 📊 GitHub Stats
